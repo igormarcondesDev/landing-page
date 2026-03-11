@@ -2,8 +2,6 @@
 
 🔗 Demo: https://igormarcondesdev.github.io/portfolio/projetos/Landing-page/index.html 
 
-📂 Repositório: https://github.com/igormarcondesDev/landing-page  
-
 ## 💡 Sobre o projeto
 Landing page desenvolvida para praticar HTML, CSS e JavaScript, com foco em layout moderno, organização visual e responsividade.  
 O objetivo foi aplicar conceitos de estruturação de páginas, criação de seções bem definidas e melhoria da experiência do usuário.
